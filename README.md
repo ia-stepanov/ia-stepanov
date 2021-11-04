@@ -36,6 +36,7 @@
 [![CSS3](https://user-images.githubusercontent.com/86494748/128634188-71178ce2-89cf-4283-9f5a-87ff5d3b4854.png)](https://html5book.ru/css-css3/)
 [![SASS](https://user-images.githubusercontent.com/86494748/128634190-68bcdb42-0c07-49e4-b7b6-0bc98b4a1342.png)](https://sass-scss.ru/)
 [![Bootstrap](https://user-images.githubusercontent.com/86494748/128634550-088b1edd-3c5b-43d1-9807-2ad01b2b6ed5.png)](https://getbootstrap.com/)
+[![JavaScript](https://user-images.githubusercontent.com/86494748/140336146-46011848-d684-4c61-a226-0382c7940591.png)](https://learn.javascript.ru/)
 [![Adobe XD](https://user-images.githubusercontent.com/86494748/128685319-41947758-4068-42c4-af18-e026adeaee0e.png)](https://www.adobe.com/ru/products/xd.html)
 [![Figma](https://user-images.githubusercontent.com/86494748/128634191-0004bde6-f8ac-47cb-8b74-f2848f35cae7.png)](https://www.figma.com/)
 
