@@ -43,7 +43,7 @@
 [![Figma](https://user-images.githubusercontent.com/86494748/148681763-cc9b76df-7a91-4908-84bb-7da19b860c74.png)](https://www.figma.com/)
 
 ### 📖 Сертификат:
-<img src="https://user-images.githubusercontent.com/86494748/148682037-fc5b80ef-de51-4385-81c5-4a1c9ca391a4.jpg" height="180px" alt="certificate">
+[<img src="https://user-images.githubusercontent.com/86494748/148682037-fc5b80ef-de51-4385-81c5-4a1c9ca391a4.jpg" height="180px" alt="certificate">](https://ude.my/UC-de64b299-dd47-4cd0-aad6-d53cfe450851)
 
 #### 📈 Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=ia-stepanov&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia-stepanov&layout=compact" height="140px"/>
