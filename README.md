@@ -1,11 +1,3 @@
-<!-- <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/ia-stepanov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.facebook.com/ia.stepanov/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
-<a href="https://vk.com/ia_stepanov"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
-<a href="https://t.me/ia_stepanov"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
-</p> -->
-
 <h1 align="center">Всем привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <h2 align="center">Меня зовут Игорь. Я начинающий Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
@@ -27,14 +19,14 @@
 
 В тот момент я пришёл к пониманию, что для полноценной разработки нужны знания языков программирования и решил углубиться в IT сферу, — меня захватывает процесс разработки и возможность создавать удобные и полезные продукты.
 
-Я защитил диплом [Веб-разработчика](https://practicum.yandex.ru/web/) в Яндекс.Практикуме 👨‍🎓. Дополнительно изучаю курсы по JavaScript, React.js, Node.js на Udemy. Решаю задачки на Сodewars. Читаю книги программированию.
+Я защитил диплом [Веб-разработчика](https://practicum.yandex.ru/web/) в Яндекс.Практикуме. Дополнительно изучаю курсы по JavaScript, React.js, Node.js на Udemy. Решаю задачки на Сodewars. Читаю книги программированию.
 
 Ещё люблю спорт, прыжки с парашютом, слежу за новостями в сфере искусственного интеллекта.
 
 🎯 **Мои цели**:
 - Научиться писать чистый код;
-- Работать над интересными проектами;
 - Работать в дружной команде опытных разработчиков;
+- Работать над интересными проектами;
 - Приносить пользу клиентам.
 
 ⚡ **Несколько фактов**:
@@ -73,8 +65,10 @@
 
 ---
 
-### 📖 Сертификат:
-[<img src="https://user-images.githubusercontent.com/86494748/148682037-fc5b80ef-de51-4385-81c5-4a1c9ca391a4.jpg" height="180px" alt="certificate">](https://ude.my/UC-de64b299-dd47-4cd0-aad6-d53cfe450851)
+### 👨‍🎓 Образование:
+|[<img src="https://user-images.githubusercontent.com/86494748/163344396-94ef1e89-5861-490d-a95d-a1d675dc5918.jpg" height="180px" alt="Диплом о профессиональной переподготовке по профессии «Веб-разработчик»">](https://drive.google.com/file/d/14e-LHymHNxaDK47kG3dUzVsMX5fssxUa/view?usp=sharing)|[<img src="https://user-images.githubusercontent.com/86494748/148682037-fc5b80ef-de51-4385-81c5-4a1c9ca391a4.jpg" height="180px" alt="Сертификат об окончании курса «Фундаментальный JavaScript. С практикой и проектами»">](https://ude.my/UC-de64b299-dd47-4cd0-aad6-d53cfe450851)|
+|----|----|
+|Диплом о профессиональной<br>переподготовке по профессии<br>«Веб-разработчик»|Сертификат об окончании курса<br>«Фундаментальный JavaScript.<br>С практикой и проектами»|
 
 ---
 
