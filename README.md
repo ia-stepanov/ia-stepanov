@@ -69,6 +69,8 @@
 |[<img src="https://user-images.githubusercontent.com/86494748/163344396-94ef1e89-5861-490d-a95d-a1d675dc5918.jpg" height="180px" alt="Диплом о профессиональной переподготовке по профессии «Веб-разработчик»">](https://drive.google.com/file/d/14e-LHymHNxaDK47kG3dUzVsMX5fssxUa/view?usp=sharing)|[<img src="https://user-images.githubusercontent.com/86494748/148682037-fc5b80ef-de51-4385-81c5-4a1c9ca391a4.jpg" height="180px" alt="Сертификат об окончании курса «Фундаментальный JavaScript. С практикой и проектами»">](https://ude.my/UC-de64b299-dd47-4cd0-aad6-d53cfe450851)|[<img src="https://user-images.githubusercontent.com/86494748/166982504-897912b0-76e6-487a-bcb7-749484d34a0b.jpg" height="180px" alt="Сертификат об окончании курса «React с нуля для начинающих. +3 проекта в портфолио!»">](https://ude.my/UC-34d445c7-105b-4cf9-8f8b-48c99ecfd1f5)|
 |----|----|----|
 |Диплом о профессиональной<br>переподготовке по профессии<br>«Веб-разработчик»|Сертификат об окончании курса<br>«Фундаментальный JavaScript.<br>С практикой и проектами»|Сертификат об окончании курса<br>«React с нуля для начинающих.<br>+3 проекта в портфолио!»|
+|[<img src="https://user-images.githubusercontent.com/86494748/174474701-292f43a4-52db-4ff7-88e9-5f0d458c282b.jpg" height="180px" alt="Удостоверение о повышении квалификации по программе «Графический дизайнер»">](https://drive.google.com/file/d/14e-LHymHNxaDK47kG3dUzVsMX5fssxUa/view?usp=sharing)|
+|Удостоверение о повышении<br>квалификации по программе<br>«Графический дизайнер»|
 
 ---
 
