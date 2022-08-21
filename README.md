@@ -11,6 +11,10 @@
 <a href="https://t.me/ia_stepanov"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 
+<details><summary>🎵 Включить музыку</summary>
+<video src="https://user-images.githubusercontent.com/86494748/185793713-45eabbc9-c26f-4216-acc2-3f189d5eeee8.mov"><video>
+</details>
+
 ### 👩‍💻 Обо мне:
 
 Мне нравится фронтенд — это творческий процесс без ограничений, который объединяет дизайн (UI, UX) и разработку приложений. Люблю, когда приложение сделано с заботой о пользователях.
