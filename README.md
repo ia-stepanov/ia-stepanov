@@ -2,13 +2,13 @@
 
 <h2 align="center">Меня зовут Игорь. Я начинающий Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<p align="center"><a href="https://ia-stepanov.ru/" target="_blank"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></a></p>
+<p align="center"><a href="https://ia-stepanov.ru/"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></a></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ia-stepanov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.facebook.com/ia.stepanov/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
-<a href="https://vk.com/ia_stepanov" target="_blank"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
-<a href="https://t.me/ia_stepanov" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+<a href="https://www.linkedin.com/in/ia-stepanov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.facebook.com/ia.stepanov/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
+<a href="https://vk.com/ia_stepanov"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
+<a href="https://t.me/ia_stepanov"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 
 <details><summary>🎵 Включить музыку</summary>
