@@ -81,7 +81,7 @@
 ---
 
 ### 🔥 Моя статистика:
-<img src="https://github-readme-stats.vercel.app/api?username=ia-stepanov&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia-stepanov&layout=compact" height="140px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ia-stepanov&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ia-stepanov&layout=compact" height="140px"/>
 
 [![Codewars](https://www.codewars.com/users/ia-stepanov/badges/large)](https://www.codewars.com/users/ia-stepanov/badges/large)
 
