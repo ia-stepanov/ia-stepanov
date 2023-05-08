@@ -87,4 +87,5 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ia-stepanov.ia-stepanov)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ia-stepanov.ia-stepanov) -->
+![visitors](https://komarev.com/ghpvc/?username=ia-stepanov&label=visitors&color=blue)
